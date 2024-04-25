@@ -11,3 +11,6 @@ Finger Print Recongintion filter must go through several steps to be correctly i
 6. Estimation of minutiae directions
 7. Creation of local structures
 8. Fingerprint comparison
+
+[Leave a comment](https://github.com/kgort6/kgort6.github.io/issues/ISSUE_TEMPLATE=comment-section.md)
+
